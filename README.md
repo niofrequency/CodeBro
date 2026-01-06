@@ -10,6 +10,9 @@
 * **Automated Backups**: Every "Fix" is preceded by a backup in `.codebro/backups`, ensuring your code is always safe.
 * **Priority Ranking**: Automatically prioritizes `package.json` and entry points to ensure Grok understands the project "brain" first.
 
+![CodeBro Dashboard](<img/CODEBRO-DASHBOARD.png>)
+
+
 ## 🛠️ Technical Stack
 
 * **Core Engine**: xAI Grok-3.
