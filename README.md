@@ -1,4 +1,4 @@
-# 🤖 CodeBro: Quantum Neural Core v3.0
+# 🤖 CodeBro
 
 **CodeBro** is an AI-powered developer tool that transforms messy or incomplete directories into runnable websites. By leveraging the **xAI Grok-3** engine, it performs high-intelligence project mapping and surgical code repair without the high costs typically associated with LLM tools.
 
