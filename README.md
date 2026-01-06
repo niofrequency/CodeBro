@@ -1,4 +1,4 @@
-#🤖 CodeBro
+# 🤖 CodeBro
 
 ### CodeBro is an AI-powered CLI tool that transforms messy or incomplete directories into runnable websites. Using Grok-3, it performs budget-friendly neural scans, maps project structures, and generates surgical, step-by-step code fixes.
 
@@ -15,8 +15,7 @@
 
 ---
 
----
-#🛠️ Setup
+# 🛠️ Setup
 1. Clone the repo.
 
 2. Create a `.env.local` file.
@@ -25,7 +24,7 @@
 
 4. Run `npm install`.
 
-#📖 Usage
+# 📖 Usage
 ---
 
 # Analyze a project
