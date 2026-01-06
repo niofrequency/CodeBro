@@ -74,4 +74,8 @@ In this mode, you can chat with Grok-3 to apply surgical fixes to specific files
 
 ---
 
-**Would you like me to help you set up the `bin` field in your `package.json` so you can run these commands globally by just typing `codebro`?**
+---
+
+*Developed by Mark Antonio Pigome*
+
+---
