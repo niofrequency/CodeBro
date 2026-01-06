@@ -2,6 +2,8 @@
 
 **CodeBro** is an AI-powered developer tool that transforms messy or incomplete directories into runnable websites. By leveraging the **xAI Grok-3** engine, it performs high-intelligence project mapping and surgical code repair without the high costs typically associated with LLM tools.
 
+---
+
 ## 🚀 Key Features
 
 * **Neural Scan**: Performs a "Shallow Map" of your project to understand architecture without reading every line of code.
@@ -12,6 +14,7 @@
 
 ![CodeBro Dashboard](<img/CODEBRO-DASHBOARD.png>)
 
+---
 
 ## 🛠️ Technical Stack
 
@@ -19,6 +22,8 @@
 * **Runtime**: Node.js (CLI-first).
 * **Build System**: Vite + TypeScript.
 * **Intelligence Strategy**: Shallow Mapping & Surgical Context Injection.
+
+---
 
 ## 📦 Installation
 
