@@ -74,8 +74,6 @@ In this mode, you can chat with Grok-3 to apply surgical fixes to specific files
 
 ---
 
----
-
 *Developed by Mark Antonio Pigome*
 
 ---
